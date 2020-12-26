@@ -1,2 +1,2 @@
 # algorithm
-leetcode
+leetcode algorithm
